@@ -1,8 +1,8 @@
 # Gen-Algo-For-Delivery-System
-GENETIC ALGORITHM FOR DELIVERY SYSTEM : Inspired by nature’s process of eliminating things that don’t work, and progressing with things that work. 
+GENETIC ALGORITHM : Inspired by nature’s process of eliminating things that don’t work, and progressing with things that work. 
 We work with a population of individuals — each individual is basically a solution to the problem. We pick the individuals who seem to be better solutions, and use those to create a new population. 
 And repeat this process.
- Genetic Algorithm is a type of search algorithm that mimics the process of biological evolution. Instead of just looking at one possible solution at a time, a GA maintains a whole population of possible solutions (called "individuals" or "states"). Over many generations, it combines the best solutions and adds random changes to produce progressively better populations, hopefully converging on an excellent solution. 
+Genetic Algorithm is a type of search algorithm that mimics the process of biological evolution. Instead of just looking at one possible solution at a time, a GA maintains a whole population of possible solutions (called "individuals" or "states"). Over many generations, it combines the best solutions and adds random changes to produce progressively better populations, hopefully converging on an excellent solution. 
 
  How the Algorithm Flows : 
 
