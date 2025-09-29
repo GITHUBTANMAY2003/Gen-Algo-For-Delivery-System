@@ -1,6 +1,3 @@
-
-<<<<<<< HEAD
-=======
 # Gen-Algo-For-Delivery-System
 GENETIC ALGORITHM FOR DELIVERY SYSTEM : Inspired by nature’s process of eliminating things that don’t work, and progressing with things that work. 
 We work with a population of individuals — each individual is basically a solution to the problem. We pick the individuals who seem to be better solutions, and use those to create a new population. 
@@ -41,4 +38,3 @@ And repeat this process.
  8.Return the best individual in population: Once the loop stops, the function searches through the final population and returns the single best individual it found.
 
 Summary:Genetic Algorithm tells us to start with a random bunch of solutions and, through a repeated process of scoring (fitness), choosing the best (selection), mixing them up (crossover), and randomly tweaking them (mutation), we can "evolve" a high-quality solution to a complex problem.
->>>>>>> a8d8553 (Updated The README File)
